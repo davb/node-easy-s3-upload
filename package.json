@@ -1,0 +1,17 @@
+{
+  "name": "easy-s3-upload",
+  "version": "0.1.0",
+  "author": "Davide Bonapersona",
+  "description": "Easily add Amazon S3 upload capabilities to your Node.js app",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "mime": "~1.2.11"
+  },
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "devDependencies": {
+    "connect": "~2.12.0"
+  }
+}
